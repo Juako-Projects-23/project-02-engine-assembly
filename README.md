@@ -2,7 +2,7 @@
 
 > A complete digital twin of a 2.0L Inline-4 engine built in Fusion 360. This project covers the full mechanical design lifecycle: translating 2D blueprints into parametric 3D models, validating kinematic motion, and performing structural FEA to test the piston-rod assembly under 35,000 N peak combustion loads.
 
-[Click here to view/download the full Engineering Portfolio Presentation (PDF)](./8aee65d7-10de-4f31-b801-94553e6bd8d6_3D_Design_Kinematics__FEA_2.0l_inline-4_automotive_engine.pdf)
+[Click here to view/download the full Engineering Portfolio Presentation (PDF)](./ENGINE-ASSEMBLY-PROJECT.pdf)
 
 Overview This repository contains the source CAD models, simulation reports, and media for a fully assembled 2.0L automotive engine. For a detailed breakdown of the engineering process, reverse engineering from 2D blueprints, kinematic DOF mapping, and material trade-off studies, please refer to the comprehensive PDF presentation linked above.
 
@@ -12,4 +12,4 @@ Repository Structure
 * `/FEA_Simulations` - Static Stress report (`.pdf`) and material trade-off data (`.xlsx`).
 * `/Media` - Demonstration video (`.gif`) and Von Mises stress heat maps (`.png`).
 * `/Reference_Blueprints` - Original 2D mechanical drawings (`.pdf`) used for dimensional reference.
-* `8aee65d7-10de-4f31-b801-94553e6bd8d6_3D_Design_Kinematics__FEA_2.0l_inline-4_automotive_engine.pdf` - Detailed project documentation and technical challenges solved.
+* `ENGINE-ASSEMBLY-PROJECT.pdf` - Detailed project documentation and technical challenges solved.
